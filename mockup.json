@@ -1,0 +1,371 @@
+{
+  "blocks": [
+    {
+      "id": "40349583-f656-4dc5-aedc-a2b2088a7e75",
+      "name": "",
+      "type": "columns",
+      "props": {
+        "columns": [
+          {
+            "blocks": [
+              {
+                "id": "4d2ea9d9-a488-497d-b3a4-5091bca6ba7d",
+                "name": "",
+                "type": "image",
+                "props": {
+                  "alt": "Email Image",
+                  "src": "https://res.cloudinary.com/dl0dhw7wt/image/upload/v1775260304/unsingedimages/ytghkrt1vmn4uihyeuij.png",
+                  "width": 10,
+                  "linkUrl": "https://",
+                  "direction": "ltr",
+                  "objectFit": "cover",
+                  "textAlign": "right",
+                  "linkActive": false,
+                  "paddingTop": 0,
+                  "aspectRatio": "auto",
+                  "paddingLeft": 0,
+                  "borderRadius": 0,
+                  "paddingRight": 0,
+                  "paddingBottom": 0,
+                  "backgroundColor": "transparent"
+                },
+                "customName": ""
+              }
+            ]
+          },
+          {
+            "blocks": [
+              {
+                "id": "01d14ba4-1ced-46af-8783-1de35d959501",
+                "name": "",
+                "type": "text",
+                "props": {
+                  "color": "#333333",
+                  "content": "<p><span style=\"font-weight:bold;color:rgb(16, 23, 22)\">FinBank</span></p>",
+                  "variant": "p",
+                  "fontSize": 24,
+                  "direction": "ltr",
+                  "fontStyle": "normal",
+                  "textAlign": "left",
+                  "fontFamily": "inherit",
+                  "fontWeight": "normal",
+                  "lineHeight": 1.5,
+                  "paddingTop": 0,
+                  "paddingLeft": 0,
+                  "paddingRight": 16,
+                  "paddingBottom": 0,
+                  "backgroundColor": "transparent"
+                },
+                "customName": ""
+              }
+            ]
+          }
+        ],
+        "columnGap": "small",
+        "direction": "ltr",
+        "textAlign": "center",
+        "paddingTop": 16,
+        "columnCount": 2,
+        "paddingLeft": 16,
+        "columnWidths": [
+          50,
+          50
+        ],
+        "paddingRight": 16,
+        "paddingBottom": 16,
+        "mobileBehavior": "keepRow",
+        "backgroundColor": "transparent",
+        "columnInnerPadding": "small"
+      },
+      "customName": ""
+    },
+    {
+      "id": "b5a439bd-1ee7-4ebc-b936-b3e084168d39",
+      "name": "",
+      "type": "image",
+      "props": {
+        "alt": "Email Image",
+        "src": "https://res.cloudinary.com/dl0dhw7wt/image/upload/v1775260435/unsingedimages/tgto3k4uwgv0ieg5uo29.png",
+        "width": 100,
+        "linkUrl": "https://",
+        "direction": "ltr",
+        "objectFit": "cover",
+        "textAlign": "center",
+        "linkActive": false,
+        "paddingTop": 13,
+        "aspectRatio": "auto",
+        "paddingLeft": 30,
+        "borderRadius": 0,
+        "paddingRight": 30,
+        "paddingBottom": 0,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "67c4176a-6d44-4527-81e7-8e24779d3ae1",
+      "name": "",
+      "type": "text",
+      "props": {
+        "color": "#333333",
+        "content": "<p><span style=\"font-weight:bold;color:rgb(16, 23, 22)\">Instant payments</span><span style=\"font-weight:bold\"> </span>anytime, anywhere.</p>",
+        "variant": "p",
+        "fontSize": 16,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "inherit",
+        "fontWeight": "normal",
+        "lineHeight": 1.5,
+        "paddingTop": 12,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingBottom": 12,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "07524cf5-06e8-472b-8f2e-26746ac2b286",
+      "name": "",
+      "type": "text",
+      "props": {
+        "color": "#333333",
+        "content": "<p><span style=\"font-weight:bold;color:rgb(16, 23, 22)\">Smart budgeting</span><span style=\"font-weight:bold\"> </span>with real-time insights.</p>",
+        "variant": "p",
+        "fontSize": 16,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "inherit",
+        "fontWeight": "normal",
+        "lineHeight": 1.5,
+        "paddingTop": 12,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingBottom": 12,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "844618da-944e-4bf3-9cae-0b00a6e76d8b",
+      "name": "",
+      "type": "text",
+      "props": {
+        "color": "#333333",
+        "content": "<p><span style=\"font-weight:bold;color:rgb(16, 23, 22)\">Bank-level security</span><span style=\"font-weight:bold\"> </span>built in.</p>",
+        "variant": "p",
+        "fontSize": 16,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "inherit",
+        "fontWeight": "normal",
+        "lineHeight": 1.5,
+        "paddingTop": 12,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingBottom": 12,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "3d79154a-cdfe-4a06-a26d-cb0671f9c067",
+      "name": "",
+      "type": "divider",
+      "props": {
+        "color": "#e0e0e0",
+        "width": 85,
+        "direction": "ltr",
+        "textAlign": "center",
+        "thickness": 2,
+        "paddingTop": 20,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingBottom": 20,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "81ffb904-d93d-4507-ae63-c1da9dee573a",
+      "name": "",
+      "type": "text",
+      "props": {
+        "color": "#333333",
+        "content": "<p><span style=\"font-weight:bold\">Your account is ready</span></p>",
+        "variant": "p",
+        "fontSize": 28,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "inherit",
+        "fontWeight": "normal",
+        "lineHeight": 1.5,
+        "paddingTop": 12,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingBottom": 12,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "078b28ee-fa88-420b-bcef-a633269fba54",
+      "name": "",
+      "type": "text",
+      "props": {
+        "color": "#333333",
+        "content": "<p>Enjoy instant access, smarter insights, and the confidence of bank-level security anytime, anywhere.</p>",
+        "variant": "p",
+        "fontSize": 16,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "inherit",
+        "fontWeight": "normal",
+        "lineHeight": 1.5,
+        "paddingTop": 12,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingBottom": 12,
+        "backgroundColor": "transparent"
+      },
+      "customName": ""
+    },
+    {
+      "id": "262154a0-0b52-4404-85b1-9211ec75f433",
+      "name": "",
+      "type": "button",
+      "props": {
+        "url": "https://example.com/",
+        "text": "Login",
+        "width": 220,
+        "height": 44,
+        "fontSize": 21,
+        "direction": "ltr",
+        "fontStyle": "normal",
+        "fullWidth": false,
+        "textAlign": "center",
+        "textColor": "#ffffff",
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontWeight": "bold",
+        "paddingTop": 15,
+        "paddingLeft": 15,
+        "borderRadius": 30,
+        "paddingRight": 15,
+        "paddingBottom": 17,
+        "backgroundColor": "#00c4cc",
+        "containerBackgroundColor": "#ffffff"
+      },
+      "customName": ""
+    },
+    {
+      "id": "d1bcecea-b955-4215-97bf-c62e291fac03",
+      "name": "",
+      "type": "columns",
+      "props": {
+        "columns": [
+          {
+            "blocks": [
+              {
+                "id": "df818a7e-3a3d-41b4-9d29-f88c2d2644d3",
+                "name": "",
+                "type": "text",
+                "props": {
+                  "color": "#333333",
+                  "content": "<p><span style=\"font-weight:bold;color:rgb(255, 255, 255)\">Need help?</span></p>",
+                  "variant": "p",
+                  "fontSize": 24,
+                  "direction": "ltr",
+                  "fontStyle": "normal",
+                  "textAlign": "left",
+                  "fontFamily": "inherit",
+                  "fontWeight": "normal",
+                  "lineHeight": 1.5,
+                  "paddingTop": 12,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingBottom": 12,
+                  "backgroundColor": "transparent"
+                },
+                "customName": ""
+              },
+              {
+                "id": "7595c6b2-2b06-44cd-b52c-c16276217805",
+                "name": "",
+                "type": "text",
+                "props": {
+                  "color": "#333333",
+                  "content": "<p><span style=\"color:rgb(255, 255, 255)\">Call us at </span><a style=\"color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#0f172a;text-decoration:none\" href=\"tel:18001234567\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"font-weight:bold;color:rgb(255, 255, 255)\">1-800-123-4567</span></a><span style=\"color:rgb(255, 255, 255)\">,</span></p><p><span style=\"color:rgb(255, 255, 255)\">start a </span><span style=\"font-weight:bold;color:rgb(255, 255, 255)\">live chat</span><span style=\"color:rgb(255, 255, 255)\"> in the app,</span></p><p><span style=\"color:rgb(255, 255, 255)\">or visit our </span><span style=\"font-weight:bold;color:rgb(255, 255, 255)\">Help Center</span><span style=\"color:rgb(255, 255, 255)\"> anytime.</span></p>",
+                  "variant": "p",
+                  "fontSize": 16,
+                  "direction": "ltr",
+                  "fontStyle": "normal",
+                  "textAlign": "left",
+                  "fontFamily": "inherit",
+                  "fontWeight": "normal",
+                  "lineHeight": 1.5,
+                  "paddingTop": 12,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingBottom": 12,
+                  "backgroundColor": "transparent"
+                },
+                "customName": ""
+              },
+              {
+                "id": "7ed39be7-b16c-4305-a5cc-305455062390",
+                "name": "",
+                "type": "text",
+                "props": {
+                  "color": "#333333",
+                  "content": "<p><span style=\"color:rgb(255, 255, 255)\">No longer want these emails? </span><a style=\"color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#0f172a;text-decoration:none\" href=\"https://{{%20unsubscribe%20}}/\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:rgb(255, 255, 255);text-decoration:underline\">Unsubscribe</span></a><span style=\"color:rgb(255, 255, 255)\">, </span><a style=\"color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#0f172a;text-decoration:none\" href=\"https://{{%20update_preferences%20}}/\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:rgb(255, 255, 255);text-decoration:underline\">update preferences</span></a><span style=\"color:rgb(255, 255, 255)\">, or </span><a style=\"color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#333333;text-decoration:none;color:#0f172a;text-decoration:none\" href=\"https://{{%20view_in_browser%20}}/\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:rgb(255, 255, 255);text-decoration:underline\">view in browser.</span></a><br><span style=\"color:rgb(255, 255, 255)\">123 Anywhere St., Any City, ST 12345</span></p>",
+                  "variant": "p",
+                  "fontSize": 14,
+                  "direction": "ltr",
+                  "fontStyle": "normal",
+                  "textAlign": "left",
+                  "fontFamily": "inherit",
+                  "fontWeight": "normal",
+                  "lineHeight": 1.5,
+                  "paddingTop": 60,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingBottom": 12,
+                  "backgroundColor": "transparent"
+                },
+                "customName": ""
+              }
+            ]
+          }
+        ],
+        "columnGap": "small",
+        "direction": "ltr",
+        "textAlign": "center",
+        "paddingTop": 16,
+        "columnCount": 1,
+        "paddingLeft": 16,
+        "columnWidths": [
+          100
+        ],
+        "paddingRight": 16,
+        "paddingBottom": 16,
+        "mobileBehavior": "keepRow",
+        "backgroundColor": "#101716",
+        "columnInnerPadding": "small"
+      },
+      "customName": ""
+    }
+  ],
+  "globalSettings": {
+    "direction": "ltr",
+    "preheader": "Everything you need to get your first campaign out faster.",
+    "textColor": "#0f172a",
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "emailSubject": "Welcome to NEX",
+    "backgroundColor": "#f8fafc"
+  }
+}
